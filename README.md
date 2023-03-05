@@ -2,7 +2,7 @@
 
 Playing with axum & preact
 
-WebSocket, Tokio, BroadCast Channel
+Dynamic WebApp, WebSocket, Tokio, BroadCast Channel
 
 Credit to FasterThanLime
 
